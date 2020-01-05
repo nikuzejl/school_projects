@@ -1,2 +1,2 @@
 # school_projects
-School material
+Some past assignments and projects
